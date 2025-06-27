@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashardaniyal12
+- 👋 Hi, I’m @ashar_daniyal
 - 👀 I’m interested in Emerging Technologies
 - 🌱 I’m currently learning Web develoopment and Python
 - 💞️ I’m looking to collaborate on useful projects
