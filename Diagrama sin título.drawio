@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="BvwY8WbTJ-YC_uFGsTyx">
-    <mxGraphModel dx="1414" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1813" dy="2122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,6 +142,9 @@
             <mxPoint x="980" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8Fn0zOaayz9uGkUAjN2p-2" edge="1" parent="1" source="F-6eQw8WUjsITHshxM34-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8Fn0zOaayz9uGkUAjN2p-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F-6eQw8WUjsITHshxM34-41" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="940" y="380" as="geometry" />
         </mxCell>
@@ -211,6 +214,9 @@
         </mxCell>
         <mxCell id="F-6eQw8WUjsITHshxM34-69" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="1000" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="8Fn0zOaayz9uGkUAjN2p-1" parent="1" style="whiteSpace=wrap;html=1;" value="partida invidual" vertex="1">
+          <mxGeometry height="60" width="120" x="1080" y="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
