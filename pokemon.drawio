@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="DzdodfDVVPxGztTMju2t">
-    <mxGraphModel dx="1809" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2832" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,16 @@
         </mxCell>
         <mxCell id="OuXtFD0auWPocv4sGNKV-3" edge="1" parent="1" source="OuXtFD0auWPocv4sGNKV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OuXtFD0auWPocv4sGNKV-2" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-29" edge="1" parent="1" source="OuXtFD0auWPocv4sGNKV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="360.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-39" edge="1" parent="1" source="OuXtFD0auWPocv4sGNKV-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-260" y="-10" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="OuXtFD0auWPocv4sGNKV-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pokemon" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="120" as="geometry" />
@@ -100,6 +110,78 @@
         </mxCell>
         <mxCell id="OuXtFD0auWPocv4sGNKV-25" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="" vertex="1">
           <mxGeometry height="80" width="80" x="-160" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="N:M" vertex="1">
+          <mxGeometry height="30" width="60" x="-235" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-32" edge="1" parent="1" source="OuXtFD0auWPocv4sGNKV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OuXtFD0auWPocv4sGNKV-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-34" edge="1" parent="1" source="OuXtFD0auWPocv4sGNKV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="OuXtFD0auWPocv4sGNKV-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-30" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="esta" vertex="1">
+          <mxGeometry height="80" width="80" x="40" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-31" parent="1" style="whiteSpace=wrap;html=1;" value="Región" vertex="1">
+          <mxGeometry height="60" width="120" x="-130" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-33" parent="1" style="whiteSpace=wrap;html=1;" value="pre región" vertex="1">
+          <mxGeometry height="60" width="120" x="20" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="id_region" vertex="1">
+          <mxGeometry height="50" width="80" x="-70" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="id_region" vertex="1">
+          <mxGeometry height="50" width="80" x="-220" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="id_pokemon" vertex="1">
+          <mxGeometry height="50" width="80" x="-165" y="534" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-40" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-970" y="-190" as="sourcePoint" />
+            <mxPoint x="-1250" y="-320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Habilidades" vertex="1">
+          <mxGeometry height="60" width="120" x="-310" y="-60" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-43" edge="1" parent="1" source="OuXtFD0auWPocv4sGNKV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" target="OuXtFD0auWPocv4sGNKV-42" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="100" />
+              <mxPoint x="-15" y="100" />
+              <mxPoint x="-15" y="50" />
+            </Array>
+            <mxPoint x="20" y="120" as="sourcePoint" />
+            <mxPoint x="-260" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-47" edge="1" parent="1" source="OuXtFD0auWPocv4sGNKV-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" x="0.1892" as="geometry">
+            <Array as="points">
+              <mxPoint x="-90" y="110" />
+              <mxPoint x="-400" y="110" />
+              <mxPoint x="-400" y="130" />
+            </Array>
+            <mxPoint x="-400" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-42" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="tiene" vertex="1">
+          <mxGeometry height="80" width="80" x="-130" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:N" vertex="1">
+          <mxGeometry height="30" width="60" x="-50" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1:N" vertex="1">
+          <mxGeometry height="30" width="60" x="-190" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="poke habilidades" vertex="1">
+          <mxGeometry height="60" width="120" x="-425" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OuXtFD0auWPocv4sGNKV-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="N:M" vertex="1">
+          <mxGeometry height="30" width="60" x="-200" y="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
