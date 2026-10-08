@@ -191,7 +191,7 @@
         <mxCell id="F-6eQw8WUjsITHshxM34-57" edge="1" parent="1" source="F-6eQw8WUjsITHshxM34-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="F-6eQw8WUjsITHshxM34-56" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F-6eQw8WUjsITHshxM34-54" parent="1" style="whiteSpace=wrap;html=1;" value="clasificación hhistoria" vertex="1">
+        <mxCell id="F-6eQw8WUjsITHshxM34-54" parent="1" style="whiteSpace=wrap;html=1;" value="clasificación historia" vertex="1">
           <mxGeometry height="60" width="120" x="648" y="40" as="geometry" />
         </mxCell>
         <mxCell id="F-6eQw8WUjsITHshxM34-56" parent="1" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" value="" vertex="1">
